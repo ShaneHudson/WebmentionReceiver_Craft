@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    $vendorDir . '/mf2/mf2/Mf2/Parser.php',
     $vendorDir . '/barnabywalters/mf-cleaner/src/BarnabyWalters/Mf2/Functions.php',
+    $vendorDir . '/mf2/mf2/Mf2/Parser.php',
 );
